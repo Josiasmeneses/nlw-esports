@@ -150,7 +150,7 @@ main section:nth-child(3){
 @keyframes fromBottom {
     from{
         opacity: 0;
-        transform: translateY(30px);
+        transform: translate(30px);
     }
 
     to{
